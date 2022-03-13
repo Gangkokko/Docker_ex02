@@ -1,9 +1,9 @@
 ## フォルダ構成
 
 ex11/<br>
-　 ├ Dockerfile <br>
-　 ├ requirements.txt<br>
 　 ├ python/<br>
+　 │ 　 └ Dockerfile<br>
+　 │ 　 └ requirements.txt<br>
 　 │ 　 └ src/<br>
 　 │ 　　　 └ sample1.py<br>
 　 └ docker-compose.yml<br>
